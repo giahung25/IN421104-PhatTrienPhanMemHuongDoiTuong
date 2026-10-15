@@ -6,3 +6,5 @@ obj/
 .vs/
 *.user
 *.suo
+club-log.txt
+*.log
